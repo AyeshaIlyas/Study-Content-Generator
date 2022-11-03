@@ -1,0 +1,14 @@
+Create review questions that test recall of facts and ideas from the given text. For each question provide the corresponding answer. 
+Strictly use this format for the output:
+QUESTIONS:
+● 
+●
+● 
+
+ANSWERS:
+● 
+●
+● 
+
+Create recall questions from this text:
+<<<CONTENT>>>
